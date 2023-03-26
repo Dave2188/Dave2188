@@ -14,6 +14,8 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs?si=EG9dia2cSgW7PwImfwgGHg)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1hzfo8twXdOegF3xireCYs?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/dave2188)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
