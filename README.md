@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dave2188&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dave2188&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1hzfo8twXdOegF3xireCYs?utm_source=generator" data-external="1" width="100%" height="380" frameBorder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+![Spotify Song](https://spotify-readme-dave.vercel.app/api)
 
 
 ## 🐦 Latest Tweet
