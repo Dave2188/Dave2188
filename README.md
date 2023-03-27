@@ -20,7 +20,7 @@
 ![Spotify Song](https://spotify-readme-dave.vercel.app/api?scan=true&rainbow=true&theme=dark)
 
 
-## 🐦 Latest Tweet
+## (https://skillicons.dev/icons?i=twitter) Latest Tweet
 [![](https://gtce.itsvg.in/api?username=dave2188)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
