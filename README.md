@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dave2188&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dave2188&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Spotify Song](https://spotify-readme-dave.vercel.app/api)
+![Spotify Song](https://spotify-readme-dave.vercel.app/api?scan=true&rainbow=true&theme=dark)
 
 
 ## 🐦 Latest Tweet
