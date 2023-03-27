@@ -22,10 +22,8 @@
 
 <div align="center">
   <div style="display: flex; margin-bottom: 30px;">
-
-![Spotify Song](https://spotify-readme-dave.vercel.app/api?scan=true&rainbow=true&theme=dark)
-
-      </div>
+     <img src="https://spotify-readme-dave.vercel.app/api?scan=true&rainbow=true&theme=dark" />
+   </div>
 </div>
 
 ## <img src="https://skillicons.dev/icons?i=twitter" /> Latest Tweet
