@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dave2188&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dave2188&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=1266137501&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=1266137501&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1266137501&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1266137501&redirect=true)
 
 
 ## 🐦 Latest Tweet
