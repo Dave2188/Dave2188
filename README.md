@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <div style="display: flex; margin-bottom: 5rem">
+  <div style="display: flex; margin-bottom: 5rem;">
     <img src="https://github-readme-stats.vercel.app/api?username=Dave2188&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dave2188&theme=dark&hide_border=false" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave2188&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
