@@ -9,19 +9,19 @@
 🔭 I’m currently working on My Job Site Tracking app & Enrichly startup<br>👯 I’m looking to collaborate on: Show me what you have!<br>🌱 I’m currently learning: More about Typescript<br>💬 Ask me about Anything<br>⚡ Fun fact about me: Went from the builder of hard pines to an engineer of code lines
 <br/><br/>
 
-<div> 
+<div align='center'> 
    <img  src="https://user-images.githubusercontent.com/99623500/227846006-bb4510b1-a527-4985-ba72-896be96e7cc4.png"/>
- </div>
+</div>
  
  ## Socials
  
  <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/davidfox967/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/dave2188)
-<br/><br/>
+<br/><br/><br/>
 
-<div>
- <img style='margin-right:1rem' src="https://skillicons.dev/icons?i=visualstudio" />
+<div align='center' height='70px'>
+ <img height='70px'  src="https://skillicons.dev/icons?i=visualstudio" />
 </div>
 
 ## Tech Stack and More:
