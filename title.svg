@@ -1,0 +1,24 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        .title {  
+          background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: black;
+        }
+      </style>
+
+      <div class='title'> 
+          <h2>About Me:</h2>
+      </div>
+
+    </div>
+  </foreignObject>
+</svg>
