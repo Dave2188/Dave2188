@@ -40,7 +40,7 @@
 ---
 
 <div align="center">
-  <div style="display: flex; margin-bottom: 30px;">
+  <div>
      <img src="https://spotify-readme-dave.vercel.app/api?scan=true&rainbow=true&theme=dark" />
    </div>
 </div>
