@@ -1,7 +1,8 @@
  <div style="font-size:2rem; display:flex; margin-bottom:2rem; justify-content:center; align-items:center; ">
  <img style='margin-right:1rem; height:100px;' src="https://user-images.githubusercontent.com/99623500/227842710-03af5f11-5446-4dfc-9ba3-6ee891b1b559.png" />
- About Me:
  </div>
+ 
+![Image alt text](title.svg)
 
 🔭 I’m currently working on My Job Site Tracking app & Enrichly startup<br>👯 I’m looking to collaborate on: Show me what you have!<br>🌱 I’m currently learning: More about Typescript<br>💬 Ask me about Anything<br>⚡ Fun fact about me: Went from the builder of hard pines to an engineer of code lines
 <br/><br/><br/>
