@@ -53,12 +53,16 @@
  Latest Tweet
 </div>
 
+<br/>
+
 [![](https://gtce.itsvg.in/api?username=dave2188)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <div style="font-size:2rem; display:flex; margin:1rem; align-items:center">
  <img style='margin-right:1rem; background:white; border-radius:.5rem;;' src="https://user-images.githubusercontent.com/99623500/227849579-f1915c74-4a7d-4683-85b6-d94add6bbd03.png" />
  Random Dev Quote
 </div>
+
+<br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
